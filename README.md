@@ -1,7 +1,7 @@
-# chat-app
+# Shubh Talj
 #### A interactive Chat Application
 
-> This is a Node.js application following the instuctions of [Udemy Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/).
+> This is a Node.js chat application this is akv-chat-app's application so it is been used.
 
 The libraries used in this project are:
 ```
@@ -46,4 +46,6 @@ io.on('connection', (socket) => {
 
 ###### boradcasting a message to all users in room
 > io.to(message.room).emit('roomData', { room: message.room, users: usersInRooms })
+
+> copyright Shubh-Soft
 
