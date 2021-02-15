@@ -1,4 +1,4 @@
-# Shubh Talj
+# Shubh Talk
 #### A interactive Chat Application
 
 > This is a Node.js chat application this is akv-chat-app's application so it is been used.
